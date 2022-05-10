@@ -1,0 +1,15 @@
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\obj\Debug\net6.0\c_sharp_tutorial.csproj.AssemblyReference.cache
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\obj\Debug\net6.0\c_sharp_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\obj\Debug\net6.0\c_sharp_tutorial.AssemblyInfoInputs.cache
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\obj\Debug\net6.0\c_sharp_tutorial.AssemblyInfo.cs
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\obj\Debug\net6.0\c_sharp_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\bin\Debug\net6.0\c_sharp_tutorial.exe
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\bin\Debug\net6.0\c_sharp_tutorial.deps.json
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\bin\Debug\net6.0\c_sharp_tutorial.runtimeconfig.json
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\bin\Debug\net6.0\c_sharp_tutorial.dll
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\bin\Debug\net6.0\c_sharp_tutorial.pdb
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\obj\Debug\net6.0\c_sharp_tutorial.dll
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\obj\Debug\net6.0\refint\c_sharp_tutorial.dll
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\obj\Debug\net6.0\c_sharp_tutorial.pdb
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\obj\Debug\net6.0\c_sharp_tutorial.genruntimeconfig.cache
+C:\Users\sabbi\source\repos\c_sharp_tutorial\c_sharp_tutorial\obj\Debug\net6.0\ref\c_sharp_tutorial.dll
