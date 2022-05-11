@@ -6,14 +6,9 @@ namespace c_sharp_tutorial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(args[0]);
-            Program program = new Program();
-            program.print();
+            string name = Console.ReadLine();
+            Console.WriteLine($"Hello {name}");
         }
 
-        void print()
-        {
-            Console.WriteLine("Hello World");
-        }
     }
 }
