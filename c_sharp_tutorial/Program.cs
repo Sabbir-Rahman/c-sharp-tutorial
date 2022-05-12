@@ -6,8 +6,9 @@ namespace c_sharp_tutorial
     {
         static void Main(string[] args)
         {
-            double a = Math.Pow(9999, 999999999);
-            Console.WriteLine(double.IsInfinity(a));
+            double x = 50.9;
+            double y = 300;
+            Console.WriteLine(Math.Floor(x));
         }
 
     }
