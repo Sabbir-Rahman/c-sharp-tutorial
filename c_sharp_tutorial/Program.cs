@@ -5,13 +5,16 @@ namespace c_sharp_tutorial
     class Program
     {
         static void Main(string[] args)
-        {   
-            // single quote to char
-            char letter = 'a';
-            // double quote to string
+        {
+            string name = "Sabbir";
+            char[] chars = { 'h', 'e', 'l', 'l', 'o' };
+            string greeting = new string(chars);
+            // output will hello
+            Console.WriteLine(greeting);
 
-            // char and integer are interchangable
-            int number = 'a';
+            string message = $"Hello my name is {name} and I say all of you {greeting}";
+            Console.WriteLine(message.ToLower());
+            Console.WriteLine(message.Length);
         }
 
     }
