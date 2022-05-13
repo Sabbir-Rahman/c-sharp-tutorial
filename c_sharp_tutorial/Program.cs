@@ -13,17 +13,19 @@ namespace c_sharp_tutorial
             Console.WriteLine("What do you think the name is?");
             string fullNameGuess = Console.ReadLine();
 
-            if(person.GetFullName() == fullNameGuess)
+            switch (fullNameGuess)
             {
-                Console.WriteLine("You got the full name");
-            } else if(person.FirstName == fullNameGuess) {
-                Console.WriteLine("You got the firstname");
-            } 
-            else
-            {
-                Console.WriteLine("Try again");
+                case "Sabbir Rahman":
+                    Console.WriteLine("You are so right");
+                    break;
+                case "Sabbir":
+                    Console.WriteLine("You are close");
+                    break;
+                default:
+                    Console.WriteLine("Bad performence");
+                    break;
             }
-        }
 
+        }
     }
 }
