@@ -10,7 +10,16 @@ namespace c_sharp_tutorial
             person.FirstName = "Sabbir";
             person.LastName = "Rahman";
 
-            Console.WriteLine(person.GetFullName());
+            Console.WriteLine("What do you think the name is?");
+            string fullNameGuess = Console.ReadLine();
+
+            if(person.GetFullName() == fullNameGuess)
+            {
+                Console.WriteLine("You got the name");
+            } else
+            {
+                Console.WriteLine("Try again");
+            }
         }
 
     }
