@@ -6,26 +6,12 @@ namespace c_sharp_tutorial
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
-            person.FirstName = "Sabbir";
-            person.LastName = "Rahman";
+            // expression ? true: false
+            bool correct = true;
 
-            Console.WriteLine("What do you think the name is?");
-            string fullNameGuess = Console.ReadLine();
+            int number = correct ? 10 : 0;
 
-            switch (fullNameGuess)
-            {
-                case "Sabbir Rahman":
-                    Console.WriteLine("You are so right");
-                    break;
-                case "Sabbir":
-                    Console.WriteLine("You are close");
-                    return;
-                default:
-                    Console.WriteLine("Bad performence");
-                    break;
-            }
-            Console.WriteLine("Congratulations");
+            Console.WriteLine(number);
 
         }
     }
