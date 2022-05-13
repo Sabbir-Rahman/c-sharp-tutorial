@@ -6,13 +6,10 @@ namespace c_sharp_tutorial
     {
         static void Main(string[] args)
         {
-            int i = 0;
-            do
+           for (int i = 10; i > 0; i--)
             {
                 Console.WriteLine(i);
-                i++;
             }
-            while (i < 0);
 
         }
     }
