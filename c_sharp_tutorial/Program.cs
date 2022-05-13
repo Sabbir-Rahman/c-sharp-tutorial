@@ -15,8 +15,11 @@ namespace c_sharp_tutorial
 
             if(person.GetFullName() == fullNameGuess)
             {
-                Console.WriteLine("You got the name");
-            } else
+                Console.WriteLine("You got the full name");
+            } else if(person.FirstName == fullNameGuess) {
+                Console.WriteLine("You got the firstname");
+            } 
+            else
             {
                 Console.WriteLine("Try again");
             }
