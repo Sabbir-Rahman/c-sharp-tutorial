@@ -20,11 +20,12 @@ namespace c_sharp_tutorial
                     break;
                 case "Sabbir":
                     Console.WriteLine("You are close");
-                    break;
+                    return;
                 default:
                     Console.WriteLine("Bad performence");
                     break;
             }
+            Console.WriteLine("Congratulations");
 
         }
     }
