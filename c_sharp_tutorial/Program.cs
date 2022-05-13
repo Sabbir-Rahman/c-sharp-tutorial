@@ -6,12 +6,12 @@ namespace c_sharp_tutorial
     {
         static void Main(string[] args)
         {
-            // expression ? true: false
-            bool correct = true;
-
-            int number = correct ? 10 : 0;
-
-            Console.WriteLine(number);
+            int i = 0;
+            while (i < 10)
+            {
+                Console.WriteLine(i);
+                i++;
+            }
 
         }
     }
